@@ -3,6 +3,6 @@
     <color name="colorPrimary">#F10910</color>
     <color name="colorPrimaryDark">#49C0F5</color>
     <color name="colorAccent">#FF8F00</color>
-    <color name="drwer_bg">#0C59F5</color>
-    <color name="drwer_font">#F10910</color>
+    <color name="drwer_bg">#574545</color>
+    <color name="drwer_font">#97DEE6</color>
 </resources>
